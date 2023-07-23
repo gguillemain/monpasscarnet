@@ -1,0 +1,61 @@
+
+.jour {
+background-color: #DAF7A6;
+border: 2px solid #DAF7A6;
+width:200px;
+float:left;
+}
+
+
+.matin {
+background-color: #85C1E9;
+border: 2px solid #85C1E9;
+width:200px;
+float:left;
+}
+
+.am{
+background-color: #FF5733;
+border: 2px solid #FF5733;
+width:200px;
+}
+
+.classe {
+background-color: #FFC300;
+border: 2px solid #FFC300;
+width:100%;
+float:center;
+text-align: center;
+}
+
+.resultat {
+font-family: arial;
+color: black;
+background-color: #DAF7A6;
+border: 2px solid #DAF7A6;
+width:80%;
+float:left;
+text-align: center;
+}
+
+.regime{
+	font-family: arial;
+	color: black;
+	background-color: #85C1E9;	
+	border: 2px solid #85C1E9;
+	width:100%;
+	float:center;
+	text-align: center;
+}
+
+.edtjour{
+	font-family: arial;
+	color: white;
+	background-color: #85C1E9;	
+	border: 2px solid #85C1E9;
+	width:15%;
+	float:right;
+	text-align: left;
+	padding:10px;
+
+}
